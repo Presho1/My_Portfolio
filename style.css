@@ -1,0 +1,54 @@
+body{
+    background-color: pink;
+}
+
+.welcome{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.introduction{
+    text-align: center;
+    
+}
+
+.about{
+    text-align: center;
+}
+
+hr{
+    border-color: aquamarine;
+}
+.hr1{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: aqua;
+  border-width: 5px;
+  width: 15%
+}
+header{
+    text-align: left;
+    background-color: rgb(214, 37, 214);
+    padding: 1rem;
+}
+.header2{
+    text-align: center;
+    color: mediumblue;
+}
+.place{
+    text-align: center;
+}
+.header3{
+    text-align: center;
+    color: rgb(56, 52, 187);
+}
+.project{
+    text-align: center;
+}
+.video{
+    width: 250px;
+    align-items: center;
+}
+.image{
+    height: 250px;
+}
